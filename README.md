@@ -1,5 +1,5 @@
 # MERN
-admin panel to analyze the ecommerce
+admin panel to analyze the ecommerce. It includes line charts, transaction table pie-chart, and geography map.
 
 ### How to Use
 In order to use this project, you need to create ".env.local" file in your client app and ".env" in your server
